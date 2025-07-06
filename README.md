@@ -7,7 +7,7 @@ This project is based on my submission for the [coursera cuda at scale](https://
 
 | edges                              | generated from                   |
 | ---------------------------------- | -------------------------------- |
-| ![edges image](data/Lena_edge.png) | ![original image](data/Lena.png) |
+| ![edges image](Edge detection/data/Lena_edge.png) | ![original image](data/Lena.png) |
 |                                    |                                  |
 
 
