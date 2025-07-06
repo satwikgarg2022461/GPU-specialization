@@ -3,7 +3,6 @@
 **Capstone Project of the Coursera
 [GPU Programming Specialization](https://www.coursera.org/specializations/gpu-programming)**
 
-This project is based on my submission for the [coursera cuda at scale](https://github.com/alex-n-braun/coursera_cuda_at_scale) project.
 
 | edges                              | generated from                   |
 | ---------------------------------- | -------------------------------- |
